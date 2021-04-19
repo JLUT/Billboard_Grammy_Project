@@ -1,0 +1,3 @@
+File exceeds limits for Billboard information. Please use the following link for original file of Billboard Hot 100. 
+
+https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019
